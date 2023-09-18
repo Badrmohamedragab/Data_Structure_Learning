@@ -1,0 +1,3 @@
+D:/clion/Ass_3DS/cmake-build-debug/CMakeFiles/Ass_3DS.dir
+D:/clion/Ass_3DS/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/clion/Ass_3DS/cmake-build-debug/CMakeFiles/rebuild_cache.dir
